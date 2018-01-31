@@ -4,10 +4,6 @@ An animated progress bar for React Native.
 
 ![](https://i.imgur.com/EGufppz.gif)
 
-## Getting started
-
-1. `npm install react-native-progress-bar@latest --save`
-
 ## Example usage
 
 ```javascript
